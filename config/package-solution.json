@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "test-graph-get-member-of-client-side-solution",
+    "id": "7cbc8f79-2918-48bb-9838-278de5023937",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/test-graph-get-member-of.sppkg"
+  }
+}
